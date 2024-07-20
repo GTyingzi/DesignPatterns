@@ -1,6 +1,6 @@
-package com.yingzi.Design.StaticFactory;
+package com.yingzi.design.StaticFactory;
 
-import com.yingzi.Design.Sender;
+import com.yingzi.design.Sender;
 
 /**
  * @author 郭涛

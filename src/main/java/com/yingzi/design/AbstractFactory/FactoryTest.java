@@ -1,7 +1,7 @@
-package com.yingzi.Design.AbstractFactory;
+package com.yingzi.design.AbstractFactory;
 
-import com.yingzi.Design.Provider;
-import com.yingzi.Design.Sender;
+import com.yingzi.design.Provider;
+import com.yingzi.design.Sender;
 
 /**
  * @author 郭涛

@@ -1,6 +1,6 @@
-package com.yingzi.Design.MultiFactory;
+package com.yingzi.design.MultiFactory;
 
-import com.yingzi.Design.Sender;
+import com.yingzi.design.Sender;
 
 /**
  * @author 郭涛

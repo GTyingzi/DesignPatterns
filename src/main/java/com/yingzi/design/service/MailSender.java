@@ -1,6 +1,6 @@
-package com.yingzi.Design.service;
+package com.yingzi.design.service;
 
-import com.yingzi.Design.Sender;
+import com.yingzi.design.Sender;
 
 /**
  * @author 郭涛

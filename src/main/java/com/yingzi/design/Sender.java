@@ -1,4 +1,4 @@
-package com.yingzi.Design;
+package com.yingzi.design;
 
 public interface Sender {
 

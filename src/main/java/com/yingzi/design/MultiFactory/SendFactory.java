@@ -1,8 +1,8 @@
-package com.yingzi.Design.MultiFactory;
+package com.yingzi.design.MultiFactory;
 
-import com.yingzi.Design.Sender;
-import com.yingzi.Design.service.MailSender;
-import com.yingzi.Design.service.SmsSender;
+import com.yingzi.design.Sender;
+import com.yingzi.design.service.MailSender;
+import com.yingzi.design.service.SmsSender;
 
 /**
  * @author 郭涛

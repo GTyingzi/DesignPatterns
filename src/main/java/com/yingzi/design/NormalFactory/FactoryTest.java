@@ -1,6 +1,6 @@
-package com.yingzi.Design.NormalFactory;
+package com.yingzi.design.NormalFactory;
 
-import com.yingzi.Design.Sender;
+import com.yingzi.design.Sender;
 
 /**
  * @author 郭涛
